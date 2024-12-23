@@ -2,7 +2,7 @@
 
 The code of "LDMReg: A Hierarchical Feature-guided Latent Diffusion Model  for Multimodal Image Registration"
 
-For more information, check out the  the [[project page](https://)]. 
+For more information, check out the  the [[project page](https://cv-reasearch.github.io/LDMReg/)]. 
 ## Update
 - [2025/1] Release part of code for LFDT-Fusion (All code will be open after acceptance).
 - ....
